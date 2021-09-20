@@ -1,0 +1,30 @@
+"openNetworkConfiguration": {
+  "NetworkConfigurations": [{
+    "GUID": "a",
+    "Name": "BigFixTANetwork",
+    "Type": "WiFi",
+    "WiFi": {
+      "SSID": "TestA",
+      "Security": "None",
+      "AutoConnect": true
+    }
+  }, {
+    "GUID": "b",
+    "Name": "BigFixSANetwork",
+    "Type": "WiFi",
+    "WiFi": {
+      "SSID": "TestB",
+      "Security": "WEP-PSK",
+      "Passphrase": "1234567890"
+    }
+  }, {
+    "GUID": "c",
+    "Name": "OnlyForGwyn",
+    "Type": "WiFi",
+    "WiFi": {
+      "SSID": "TestC",
+      "Security": "WPA-PSK",
+      "Passphrase": "baseball"
+    }
+  }]
+}

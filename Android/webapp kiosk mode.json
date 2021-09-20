@@ -1,0 +1,16 @@
+"applications": [
+ {
+   "packageName": "com.google.mybigfixwebapp",
+   "installType": "KIOSK",
+   "defaultPermissionPolicy": "GRANT"
+ },
+ {
+   "packageName": "com.android.chrome",
+   "installType": "FORCE_INSTALLED",
+   "managedConfiguration": {
+     "URLBLacklist": ["*"],
+     "URLWhitelist": ["bigfix.app.com"]
+   },
+   "defaultPermissionPolicy": "GRANT"
+ }
+]

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>Password</key>
+			<string>bigfixrocks</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi #1</string>
+			<key>PayloadIdentifier</key>
+			<string>LP1-EU-51983853.1EDB79F1-53C5-46EF-A583-7056BC357CBF</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>541DC352-1D68-4C19-8298-04153809309B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>BigfixTAWifi</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>iOS - Wifi WPA2</string>
+	<key>PayloadIdentifier</key>
+	<string>LP1-EU-51983853.D93ECB35-F976-4F51-AB70-357F92BE3446</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1AD476DA-0A56-4796-984D-DC35ED97CD0B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

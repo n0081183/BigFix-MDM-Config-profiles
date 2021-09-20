@@ -1,0 +1,8 @@
+"applications": [
+  {
+    "packageName": "solitaire.patience.card.games.klondike.free",
+    "installType": "KIOSK",
+    "defaultPermissionPolicy": "GRANT"
+  }
+]
+

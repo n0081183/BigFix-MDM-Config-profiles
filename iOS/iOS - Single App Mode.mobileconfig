@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>App</key>
+			<dict>
+				<key>Identifier</key>
+				<string>com.google.ios.youtube</string>
+				<key>Options</key>
+				<dict>
+					<key>DisableDeviceRotation</key>
+					<true/>
+					<key>DisableRingerSwitch</key>
+					<true/>
+					<key>DisableVolumeButtons</key>
+					<true/>
+				</dict>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Single App Mode</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.app.lock</string>
+			<key>PayloadType</key>
+			<string>com.apple.app.lock</string>
+			<key>PayloadUUID</key>
+			<string>3DAD8C81-1A20-40D2-A99C-E720FBDFAEA2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>iOS - Single App Mide</string>
+	<key>PayloadIdentifier</key>
+	<string>LP1-EU-51983853.D93ECB35-F976-4F51-AB70-357F92BE3446</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>10A4A2BB-D97C-42DA-91D6-0C3AB8998567</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
